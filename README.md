@@ -5,7 +5,7 @@ Claude Code skill: see everything Claude has on your machine — skills, MCP con
 ## Install
 
 ```bash
-gh repo clone chethanbhatbs/my-claude-skill ~/.claude/skills/my-claude
+gh repo clone chethanbhatbs/tomograph-skill ~/.claude/skills/tomograph
 ```
 
 ## Use
