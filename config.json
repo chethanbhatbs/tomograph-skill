@@ -1,0 +1,6 @@
+{
+  "github_owner": "chethan-sudo",
+  "repo_prefix": "claude-skill-",
+  "default_visibility": "private",
+  "commit_message_template": "Update {skill} skill"
+}
