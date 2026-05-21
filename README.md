@@ -35,3 +35,9 @@ Every entry in `~/.claude/` is bucketed into one of:
 ## Privacy
 
 No network calls. All data stays local. The output HTML includes a banner highlighting that `~/.claude/projects/` stores full transcripts in plaintext.
+
+---
+
+<p align="center">
+  <sub>Built with <a href="https://emergent.sh">Emergent</a> + <a href="https://claude.ai/code">Claude Code</a> · refined by hand</sub>
+</p>
